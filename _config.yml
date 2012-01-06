@@ -8,11 +8,11 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : My Blog =)
+production_url : http://nanenj.github.com # or your custom domain name
+title : nanenj.github.com
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Nick Nadboralski
+  email : nanenj@nomail.com
+  github : nanenj
+  twitter : nanenj
